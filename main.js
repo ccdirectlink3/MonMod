@@ -2,9 +2,8 @@ import {
     Spirit
 } from "./spirit.js";
 
-export default class MonMod extends Plugin {
+export default class MonMod {
     constructor(mod) {
-        super();
         this.mod = mod;
         this.spirit = new Spirit();
     }
