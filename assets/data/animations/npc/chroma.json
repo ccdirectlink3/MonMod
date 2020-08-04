@@ -10,7 +10,7 @@
             "height": 40
         },
         "float": {
-            "src": "media\/entity\/npc\/guest\/chroma.png",
+            "src": "media/entity/npc/guest/chroma.png",
             "xCount": 3,
             "offX": 0,
             "offY": 120,
@@ -18,7 +18,7 @@
             "height": 40
         },
         "pose": {
-            "src": "media\/entity\/npc\/guest\/chroma.png",
+            "src": "media/entity/npc/guest/chroma.png",
             "xCount": 3,
             "offX": 0,
             "offY": 200,

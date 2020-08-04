@@ -5,7 +5,7 @@
     "type": "ADD_ARRAY_ELEMENT",
     "content": {
         "sheet": {
-            "src": "media\/entity\/effects\/spiritMeterstars.png",
+            "src": "media/entity/effects/spiritMeterstars.png",
             "offX": 0,
             "offY": 0,
             "width": 15,
@@ -48,7 +48,7 @@
         "loop": false,
         "variance": 0.2,
         "speed": 1.3,
-        "sound": "media\/sound\/battle\/new-rank.ogg",
+        "sound": "media/sound/battle/new-rank.ogg",
         "type": "PLAY_SOUND"
     }]
 }, {

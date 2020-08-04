@@ -342,7 +342,7 @@
             "loop": false,
             "speed": 1.2,
             "type": "PLAY_SOUND",
-            "sound": "media\/sound\/battle\/enemies\/samurai\/samurai-jump.ogg"
+            "sound": "media/sound/battle/enemies/samurai/samurai-jump.ogg"
         }, {
             "wait": false,
             "viaWalkConfig": false,
@@ -928,7 +928,7 @@
             "loop": false,
             "speed": 1.2,
             "type": "PLAY_SOUND",
-            "sound": "media\/sound\/battle\/enemies\/samurai\/samurai-jump.ogg"
+            "sound": "media/sound/battle/enemies/samurai/samurai-jump.ogg"
         }, {
             "duration": -1,
             "align": "BOTTOM",
@@ -1185,14 +1185,14 @@
                 "global": false,
                 "loop": false,
                 "type": "PLAY_SOUND",
-                "sound": "media\/sound\/battle\/hit-counter-echo.ogg"
+                "sound": "media/sound/battle/hit-counter-echo.ogg"
             }, {
                 "volume": 1,
                 "variance": 0.1,
                 "global": false,
                 "loop": false,
                 "type": "PLAY_SOUND",
-                "sound": "media\/sound\/battle\/enemies\/samurai\/sword-slash.ogg"
+                "sound": "media/sound/battle/enemies/samurai/sword-slash.ogg"
             }, {
                 "kind": "GUARDED_ATTACKER",
                 "type": "SET_TEMP_TARGET"
@@ -1427,7 +1427,7 @@
             "global": false,
             "loop": false,
             "type": "PLAY_SOUND",
-            "sound": "media\/sound\/battle\/enemies\/samurai\/samurai-jump-with-cloth.ogg"
+            "sound": "media/sound/battle/enemies/samurai/samurai-jump-with-cloth.ogg"
         }, {
             "wait": false,
             "viaWalkConfig": false,
@@ -1479,7 +1479,7 @@
             "global": false,
             "loop": false,
             "type": "PLAY_SOUND",
-            "sound": "media\/sound\/battle\/enemies\/samurai\/samurai-land.ogg"
+            "sound": "media/sound/battle/enemies/samurai/samurai-land.ogg"
         }, {
             "value": 1,
             "type": "SET_Z_GRAVITY_FACTOR"
@@ -1512,7 +1512,7 @@
             "loop": false,
             "speed": 1.2,
             "type": "PLAY_SOUND",
-            "sound": "media\/sound\/battle\/enemies\/samurai\/samurai-jump.ogg"
+            "sound": "media/sound/battle/enemies/samurai/samurai-jump.ogg"
         }, {
             "wait": false,
             "viaWalkConfig": false,
@@ -1572,7 +1572,7 @@
             "global": false,
             "loop": false,
             "type": "PLAY_SOUND",
-            "sound": "media\/sound\/battle\/enemies\/samurai\/samurai-jump.ogg"
+            "sound": "media/sound/battle/enemies/samurai/samurai-jump.ogg"
         }, {
             "wait": false,
             "viaWalkConfig": false,
@@ -1680,7 +1680,7 @@
             "loop": false,
             "speed": 1.2,
             "type": "PLAY_SOUND",
-            "sound": "media\/sound\/battle\/enemies\/samurai\/samurai-jump.ogg"
+            "sound": "media/sound/battle/enemies/samurai/samurai-jump.ogg"
         }, {
             "wait": false,
             "viaWalkConfig": false,
@@ -1794,7 +1794,7 @@
             "global": false,
             "loop": false,
             "type": "PLAY_SOUND",
-            "sound": "media\/sound\/battle\/enemies\/samurai\/samurai-jump.ogg"
+            "sound": "media/sound/battle/enemies/samurai/samurai-jump.ogg"
         }, {
             "wait": false,
             "viaWalkConfig": false,
@@ -1908,10 +1908,10 @@
         "species": {
             "en_US": "Honorable Insect",
             "de_DE": "Ehrbares Insekt<<C<<Gepr\u00fcft: Minsu",
-            "zh_CN": "\u5149\u8363\u6b66\u866b<<A<<[CHANGED 2017\/10\/10]",
-            "zh_TW": "\u5149\u69ae\u6b66\u87f2<<A<<[CHANGED 2017\/10\/10]",
-            "ja_JP": "\u9ad8\u6f54\u306a\u7532\u866b<<A<<[CHANGED 2017\/11\/04]",
-            "ko_KR": "\uba85\uc608\ub85c\uc6b4 \uace4\ucda9<<A<<[CHANGED 2017\/10\/17]",
+            "zh_CN": "\u5149\u8363\u6b66\u866b<<A<<[CHANGED 2017/10/10]",
+            "zh_TW": "\u5149\u69ae\u6b66\u87f2<<A<<[CHANGED 2017/10/10]",
+            "ja_JP": "\u9ad8\u6f54\u306a\u7532\u866b<<A<<[CHANGED 2017/11/04]",
+            "ko_KR": "\uba85\uc608\ub85c\uc6b4 \uace4\ucda9<<A<<[CHANGED 2017/10/17]",
             "langUid": 4
         },
         "category": "ANIMALS",
@@ -1919,10 +1919,10 @@
             "text": {
                 "en_US": "This bug is a true warrior and master of the hidden arts of the blade. Trained by a master since its birth it takes down enemies with powerful strikes. Strikes so powerful they combust the air around them and create flames.",
                 "de_DE": "Dieser K\u00e4fer ist ein wahrer Krieger und Meister der geheimen Klingenkunst. Von einem Meister seit seiner Geburt ausgebildet, besiegt er seine Feinde durch m\u00e4chtige Hiebe. So m\u00e4chtig, dass sie die Luft um sie herum verbrennen und Flammen erzeugen.<<C<<Gepr\u00fcft: Minsu",
-                "zh_CN": "\u8fd9\u53ea\u866b\u4e43\u662f\u771f\u6b63\u7684\u6b66\u58eb\uff0c\u4f7f\u5200\u7684\u5927\u5e08\u3002\u4ece\u51fa\u751f\u5f00\u59cb\u5c31\u53d7\u5230\u4e25\u683c\u7684\u8bad\u7ec3\uff0c\u80fd\u7528\u6781\u5f3a\u7684\u653b\u51fb\u6253\u5012\u654c\u4eba\u3002\u90a3\u653b\u51fb\u5f3a\u5230\u80fd\u591f\u70b9\u71c3\u5468\u56f4\u7684\u7a7a\u6c14\uff0c\u521b\u9020\u706b\u7130\u3002<<A<<[CHANGED 2017\/10\/10]",
-                "zh_TW": "\u9019\u53ea\u87f2\u4e43\u662f\u771f\u6b63\u7684\u6b66\u58eb\uff0c\u4f7f\u5200\u7684\u5927\u5e2b\u3002\u5f9e\u51fa\u751f\u958b\u59cb\u5c31\u53d7\u5230\u56b4\u683c\u7684\u8a13\u7df4\uff0c\u80fd\u7528\u6975\u5f37\u7684\u653b\u64ca\u6253\u5012\u6575\u4eba\u3002\u90a3\u653b\u64ca\u5f37\u5230\u80fd\u5920\u9ede\u71c3\u5468\u570d\u7684\u7a7a\u6c23\uff0c\u5275\u9020\u706b\u7130\u3002<<A<<[CHANGED 2017\/10\/10]",
-                "ja_JP": "\u3053\u306e\u866b\u306f\u3001\u79d8\u4f1d\u306e\u5263\u8853\u3092\u6975\u3081\u305f\u771f\u306e\u6226\u58eb\u3060\u3002\u751f\u307e\u308c\u305f\u6642\u304b\u3089\u5e2b\u7bc4\u306b\u3088\u308b\u6307\u5c0e\u3092\u53d7\u3051\u3066\u304a\u308a\u3001\u305d\u306e\u529b\u5f37\u3044\u4e00\u9583\u3067\u6575\u3092\u5207\u308a\u5012\u3059\u3002\u305d\u306e\u4e00\u9583\u306f\u5468\u56f2\u306e\u7a7a\u6c17\u306b\u706b\u3092\u4ed8\u3051\u3001\u708e\u3092\u751f\u307f\u51fa\u3059\u7a0b\u306b\u5f37\u3044\u3002<<A<<[CHANGED 2017\/11\/04]",
-                "ko_KR": "\uc774 \ubc8c\ub808\ub294 \uc228\uaca8\uc9c4 \uac80\uc220\uc758 \ub300\uac00\uc774\uc790 \uc9c4\uc815\ud55c \uc804\uc0ac\uc785\ub2c8\ub2e4. \ud0dc\uc5b4\ub0a0 \ub54c\ubd80\ud130 \uc0ac\ubc94\uc5d0\uac8c \uc218\ub828\ubc1b\uc558\uace0 \uac15\ub825\ud55c \uacf5\uaca9\uc73c\ub85c \uc801\uc744 \uc4f0\ub7ec\ub728\ub9bd\ub2c8\ub2e4. \uacf5\uaca9\uc740 \ub108\ubb34\ub098 \uac15\ub825\ud574 \uc8fc\ubcc0\uc758 \uacf5\uae30\ub97c \uc5f0\uc18c\uc2dc\ud0a4\uace0 \ubd88\uaf43\uc744 \uc77c\uc73c\ud0b5\ub2c8\ub2e4.<<A<<[CHANGED 2017\/10\/17]",
+                "zh_CN": "\u8fd9\u53ea\u866b\u4e43\u662f\u771f\u6b63\u7684\u6b66\u58eb\uff0c\u4f7f\u5200\u7684\u5927\u5e08\u3002\u4ece\u51fa\u751f\u5f00\u59cb\u5c31\u53d7\u5230\u4e25\u683c\u7684\u8bad\u7ec3\uff0c\u80fd\u7528\u6781\u5f3a\u7684\u653b\u51fb\u6253\u5012\u654c\u4eba\u3002\u90a3\u653b\u51fb\u5f3a\u5230\u80fd\u591f\u70b9\u71c3\u5468\u56f4\u7684\u7a7a\u6c14\uff0c\u521b\u9020\u706b\u7130\u3002<<A<<[CHANGED 2017/10/10]",
+                "zh_TW": "\u9019\u53ea\u87f2\u4e43\u662f\u771f\u6b63\u7684\u6b66\u58eb\uff0c\u4f7f\u5200\u7684\u5927\u5e2b\u3002\u5f9e\u51fa\u751f\u958b\u59cb\u5c31\u53d7\u5230\u56b4\u683c\u7684\u8a13\u7df4\uff0c\u80fd\u7528\u6975\u5f37\u7684\u653b\u64ca\u6253\u5012\u6575\u4eba\u3002\u90a3\u653b\u64ca\u5f37\u5230\u80fd\u5920\u9ede\u71c3\u5468\u570d\u7684\u7a7a\u6c23\uff0c\u5275\u9020\u706b\u7130\u3002<<A<<[CHANGED 2017/10/10]",
+                "ja_JP": "\u3053\u306e\u866b\u306f\u3001\u79d8\u4f1d\u306e\u5263\u8853\u3092\u6975\u3081\u305f\u771f\u306e\u6226\u58eb\u3060\u3002\u751f\u307e\u308c\u305f\u6642\u304b\u3089\u5e2b\u7bc4\u306b\u3088\u308b\u6307\u5c0e\u3092\u53d7\u3051\u3066\u304a\u308a\u3001\u305d\u306e\u529b\u5f37\u3044\u4e00\u9583\u3067\u6575\u3092\u5207\u308a\u5012\u3059\u3002\u305d\u306e\u4e00\u9583\u306f\u5468\u56f2\u306e\u7a7a\u6c17\u306b\u706b\u3092\u4ed8\u3051\u3001\u708e\u3092\u751f\u307f\u51fa\u3059\u7a0b\u306b\u5f37\u3044\u3002<<A<<[CHANGED 2017/11/04]",
+                "ko_KR": "\uc774 \ubc8c\ub808\ub294 \uc228\uaca8\uc9c4 \uac80\uc220\uc758 \ub300\uac00\uc774\uc790 \uc9c4\uc815\ud55c \uc804\uc0ac\uc785\ub2c8\ub2e4. \ud0dc\uc5b4\ub0a0 \ub54c\ubd80\ud130 \uc0ac\ubc94\uc5d0\uac8c \uc218\ub828\ubc1b\uc558\uace0 \uac15\ub825\ud55c \uacf5\uaca9\uc73c\ub85c \uc801\uc744 \uc4f0\ub7ec\ub728\ub9bd\ub2c8\ub2e4. \uacf5\uaca9\uc740 \ub108\ubb34\ub098 \uac15\ub825\ud574 \uc8fc\ubcc0\uc758 \uacf5\uae30\ub97c \uc5f0\uc18c\uc2dc\ud0a4\uace0 \ubd88\uaf43\uc744 \uc77c\uc73c\ud0b5\ub2c8\ub2e4.<<A<<[CHANGED 2017/10/17]",
                 "langUid": 6
             },
             "condition": ""
@@ -1930,10 +1930,10 @@
             "text": {
                 "en_US": "Its weapons of choice are dual swords known as \"Sun Blades\". When threatened it can summon a heat barrier and it uses a fake-out attack by jumping behind its enemies following up with a huge fire swirl.",
                 "de_DE": "Die Waffen seiner Wahl sind Doppelschwerter, die als \"Sonnenklingen\" bekannt sind. Bei Bedrohung beschw\u00f6rt er eine Hitze-Barriere, die er auch als Scheinangriff benutzt, bei dem er hinter seine Gegner springt und einen gro\u00dfen Feuerwirbel erzeugt.<<C<<Gepr\u00fcft: Minsu",
-                "zh_CN": "\u5b83\u7684\u6b66\u5668\u662f\u53cc\u5200\u201c\u592a\u9633\u4e4b\u5203\u201d\u3002\u5f53\u5371\u673a\u6765\u4e34\u65f6\uff0c\u5b83\u4f1a\u53ec\u5524\u4e00\u9053\u706b\u5899\uff0c\u7136\u540e\u865a\u6643\u4e00\u62db\uff0c\u95ea\u5230\u654c\u4eba\u80cc\u540e\uff0c\u518d\u7528\u5f3a\u529b\u7684\u706b\u7130\u65cb\u98ce\u653b\u51fb\u654c\u4eba\u3002<<A<<[CHANGED 2019\/07\/31]",
-                "zh_TW": "\u5b83\u7684\u6b66\u5668\u662f\u96d9\u5200\u201c\u592a\u967d\u4e4b\u5203\u201d\u3002\u7576\u5371\u6a5f\u4f86\u81e8\u6642\uff0c\u5b83\u6703\u53ec\u559a\u4e00\u9053\u706b\u7246\uff0c\u7136\u5f8c\u865b\u6643\u4e00\u62db\uff0c\u9583\u5230\u6575\u4eba\u80cc\u5f8c\uff0c\u518d\u7528\u5f37\u529b\u7684\u706b\u7130\u65cb\u98a8\u653b\u64ca\u6575\u4eba\u3002<<A<<[CHANGED 2019\/07\/31]",
-                "ja_JP": "\u300c\u592a\u967d\u5263\u300d\u3068\u547c\u3070\u308c\u308b\u53cc\u5263\u3092\u5f97\u7269\u3068\u3057\u3066\u4f7f\u3046\u3002\u8eab\u306b\u5371\u6a5f\u304c\u8feb\u308b\u3068\u708e\u306e\u30d0\u30ea\u30a2\u3092\u767a\u751f\u3055\u305b\u308b\u3053\u3068\u304c\u3042\u308b\u3002\u307e\u305f\u3001\u6575\u306e\u80cc\u5f8c\u3078\u3068\u8df3\u8e8d\u3057\u3001\u708e\u3092\u4f34\u3046\u5de8\u5927\u306a\u56de\u8ee2\u3067\u6575\u3092\u653b\u6483\u3059\u308b\u3001\u30c8\u30ea\u30c3\u30ad\u30fc\u306a\u6226\u8853\u3082\u4f7f\u7528\u3059\u308b\u3002<<A<<[CHANGED 2019\/07\/31]",
-                "ko_KR": "\uc0ac\uc6a9\ud558\ub294 \ubb34\uae30\ub294 \"\ud0dc\uc591\uc758 \uac80\"\uc73c\ub85c \uc54c\ub824\uc9c4 \uc30d\uac80\uc785\ub2c8\ub2e4. \uc704\ud611\ubc1b\uc558\uc744 \ub54c \uc5f4\uae30 \uc7a5\ubcbd\uc744 \uc18c\ud658\ud560 \uc218 \uc788\uace0 \uc801\uc758 \ub4a4\ud3b8\uc73c\ub85c \ub3c4\uc57d\ud574 \ucee4\ub2e4\ub780 \ubd88\uaf43 \uc18c\uc6a9\ub3cc\uc774\ub85c \uc774\uc5b4\uc9c0\ub294 \uae30\ub9cc \uacf5\uaca9\uc744 \uc0ac\uc6a9\ud569\ub2c8\ub2e4.<<A<<[CHANGED 2019\/07\/31]",
+                "zh_CN": "\u5b83\u7684\u6b66\u5668\u662f\u53cc\u5200\u201c\u592a\u9633\u4e4b\u5203\u201d\u3002\u5f53\u5371\u673a\u6765\u4e34\u65f6\uff0c\u5b83\u4f1a\u53ec\u5524\u4e00\u9053\u706b\u5899\uff0c\u7136\u540e\u865a\u6643\u4e00\u62db\uff0c\u95ea\u5230\u654c\u4eba\u80cc\u540e\uff0c\u518d\u7528\u5f3a\u529b\u7684\u706b\u7130\u65cb\u98ce\u653b\u51fb\u654c\u4eba\u3002<<A<<[CHANGED 2019/07/31]",
+                "zh_TW": "\u5b83\u7684\u6b66\u5668\u662f\u96d9\u5200\u201c\u592a\u967d\u4e4b\u5203\u201d\u3002\u7576\u5371\u6a5f\u4f86\u81e8\u6642\uff0c\u5b83\u6703\u53ec\u559a\u4e00\u9053\u706b\u7246\uff0c\u7136\u5f8c\u865b\u6643\u4e00\u62db\uff0c\u9583\u5230\u6575\u4eba\u80cc\u5f8c\uff0c\u518d\u7528\u5f37\u529b\u7684\u706b\u7130\u65cb\u98a8\u653b\u64ca\u6575\u4eba\u3002<<A<<[CHANGED 2019/07/31]",
+                "ja_JP": "\u300c\u592a\u967d\u5263\u300d\u3068\u547c\u3070\u308c\u308b\u53cc\u5263\u3092\u5f97\u7269\u3068\u3057\u3066\u4f7f\u3046\u3002\u8eab\u306b\u5371\u6a5f\u304c\u8feb\u308b\u3068\u708e\u306e\u30d0\u30ea\u30a2\u3092\u767a\u751f\u3055\u305b\u308b\u3053\u3068\u304c\u3042\u308b\u3002\u307e\u305f\u3001\u6575\u306e\u80cc\u5f8c\u3078\u3068\u8df3\u8e8d\u3057\u3001\u708e\u3092\u4f34\u3046\u5de8\u5927\u306a\u56de\u8ee2\u3067\u6575\u3092\u653b\u6483\u3059\u308b\u3001\u30c8\u30ea\u30c3\u30ad\u30fc\u306a\u6226\u8853\u3082\u4f7f\u7528\u3059\u308b\u3002<<A<<[CHANGED 2019/07/31]",
+                "ko_KR": "\uc0ac\uc6a9\ud558\ub294 \ubb34\uae30\ub294 \"\ud0dc\uc591\uc758 \uac80\"\uc73c\ub85c \uc54c\ub824\uc9c4 \uc30d\uac80\uc785\ub2c8\ub2e4. \uc704\ud611\ubc1b\uc558\uc744 \ub54c \uc5f4\uae30 \uc7a5\ubcbd\uc744 \uc18c\ud658\ud560 \uc218 \uc788\uace0 \uc801\uc758 \ub4a4\ud3b8\uc73c\ub85c \ub3c4\uc57d\ud574 \ucee4\ub2e4\ub780 \ubd88\uaf43 \uc18c\uc6a9\ub3cc\uc774\ub85c \uc774\uc5b4\uc9c0\ub294 \uae30\ub9cc \uacf5\uaca9\uc744 \uc0ac\uc6a9\ud569\ub2c8\ub2e4.<<A<<[CHANGED 2019/07/31]",
                 "langUid": 8
             },
             "condition": ""

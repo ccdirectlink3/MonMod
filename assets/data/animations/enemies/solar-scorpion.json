@@ -2,14 +2,14 @@
     "DOCTYPE": "MULTI_DIR_ANIMATION",
     "namedSheets": {
         "move": {
-            "src": "media\/entity\/enemy\/solar-scorpion.png",
+            "src": "media/entity/enemy/solar-scorpion.png",
             "offX": 0,
             "offY": 0,
             "width": 64,
             "height": 56
         },
         "attack": {
-            "src": "media\/entity\/enemy\/solar-scorpion.png",
+            "src": "media/entity/enemy/solar-scorpion.png",
             "offX": 0,
             "offY": 168,
             "width": 64,
