@@ -1,0 +1,9 @@
+{
+    "id": "monmod",
+    "version": "1.2.0",
+    "title": {
+        "en_US": "MonMod"
+    },
+    "main": "main.js",
+    "prestart": "imports.js"
+}

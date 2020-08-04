@@ -1,9 +1,6 @@
 {
-    "name": "MonMod",
-    "version": "1.1.1",
-    "plugin": "mod.js",
-    "prestart": "imports.js",
-    "module": true,
+    "name": "monmod",
+    "version": "1.2.0",
     "scripts": {
         "format": "npm run json-beautify && npm run js-beautify",
         "js-beautify": "npm run beautify-cmd -q \"**/*.js\"",
@@ -13,6 +10,5 @@
     "dependencies": {
         "js-beautify": "^1.10.3",
         "minify-json": "^1.0.0"
-    },
-    "ccmodDependencies": {}
+    }
 }
